@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Julio Sarmiento
+# 👋 Hello there, I'm Julio Sarmiento
 
 🚀 **Tech Lead & Senior Software Developer**  
 🌍 Based in Barranquilla, Colombia  
