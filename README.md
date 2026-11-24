@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate software engineer with over **8 years of experience** building high-demand, scalable, and cloud-ready solutions, especially for **retail** and **e-commerce** platforms. I've worked with companies across Latin America, including **Walmart**, **SMU**, **Banco Consorcio**, and **Entel**, leading development teams and delivering mission-critical software.
+I'm a passionate software engineer with over **10 years of experience** building high-demand, scalable, and cloud-ready solutions, especially for **retail** and **e-commerce** platforms. I've worked with companies across Latin America, including **Walmart**, **SMU**, **Banco Consorcio**, and **Entel**, leading development teams and delivering mission-critical software.
 
 I'm a strong advocate of clean code, software architecture principles like **DDD**, **TDD**, and **hexagonal architecture**, and always focused on delivering robust and maintainable solutions.
 
